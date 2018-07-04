@@ -1,0 +1,22 @@
+{
+  "name": "basic-calculator",
+  "version": "1.0.0",
+  "description": "Basic Calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbshub/basic-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbshub/basic-calculator/issues"
+  },
+  "homepage": "https://github.com/bbshub/basic-calculator#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
