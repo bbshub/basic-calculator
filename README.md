@@ -1,4 +1,4 @@
 # basic-calculator
 Basic calculator
 
-HTML5, Javascript, ExpressJs
+HTML5, Javascript, Parcel Bundler
