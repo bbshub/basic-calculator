@@ -2,11 +2,11 @@
   "name": "basic-calculator",
   "version": "1.0.0",
   "description": "Basic Calculator",
-  "main": "main.js",
+  "main": "./public/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:node": "node server.js",
-    "build": "parcel index.html -p 3000"
+    "start": "parcel index.html -p 3000",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,5 @@
     "url": "https://github.com/bbshub/basic-calculator/issues"
   },
   "homepage": "https://github.com/bbshub/basic-calculator#readme",
-  "dependencies": {
-    "express": "^4.16.3"
-  }
+  "dependencies": {}
 }
